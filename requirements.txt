@@ -9,4 +9,4 @@ thefuzz
 
 uvicorn
 
-sqlite3
+pysqlite3
