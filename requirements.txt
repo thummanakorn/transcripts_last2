@@ -1,0 +1,12 @@
+
+fastapi==0.95.2
+
+pythainlp
+
+requests
+
+thefuzz
+
+uvicorn
+
+sqlite3
